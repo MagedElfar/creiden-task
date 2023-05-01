@@ -60,13 +60,13 @@ $ npm run test:cov
 
 ## Required environment variables
 
-- PORT - run server port
-- TOKEN_SECRET - JWT secret
+- PORT: run server port
+- TOKEN_SECRET: JWT secret
 - Access_Token_Expire
-- MONGODB_URL - database host
-- MONGODB_USERNAME - database username
-- MONGODB_PASSWORD - database password
-- MONGODB_DBNAME - database name
+- MONGODB_URL: database host
+- MONGODB_USERNAME: database username
+- MONGODB_PASSWORD: database password
+- MONGODB_DBNAME: database name
 
 ## Support
 
