@@ -58,6 +58,16 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## Required environment variables
+
+- PORT - run server port
+- TOKEN_SECRET - JWT secret
+- Access_Token_Expire
+- MONGODB_URL - database host
+- MONGODB_USERNAME - database username
+- MONGODB_PASSWORD - database password
+- MONGODB_DBNAME - database name
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
